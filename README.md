@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am an enthusiastic and dedicated Undergraduate Electrical & Electronics Engineer from Nepal Engineering College, passionate about driving innovation in technology. My leadership skills shine through my active involvement in nonprofit and volunteering work, and I hold a certification in Flutter. Since May 2024, I have been advancing my practical knowledge and professional skills as a STEM Trainer at Khudkila Nepal.<br><br>Committed to lifelong learning, I am currently pursuing my degree in Electrical and Electronics Engineering (2019 - Present). I am eager to <br>connect with professionals and organizations to explore opportunities and collaborate on exciting projects. Let's innovate together! 🚀🔌
+I am an aspiring Electrical & Electronics Engineer currently in my final year at Nepal Engineering College, passionate about integrating technology with innovation. With hands-on experience in leadership, research, and technical projects, I have actively contributed as an IEEE Student Member, a STEM Trainer at Khudkila Nepal, and the Campus Director & Advisor for the Hult Prize at NEC.
+Beyond academics, I thrive in problem-solving, machine learning applications in power systems, and nonprofit leadership. I am particularly interested in power system analysis, fault detection using AI/ML.
+I believe in lifelong learning and collaboration. Let’s connect and explore opportunities to innovate together!
 
 
 ## 🌐 Socials:

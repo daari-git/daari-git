@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am an aspiring Electrical & Electronics Engineer currently in my final year at Nepal Engineering College, passionate about integrating technology with innovation. With hands-on experience in leadership, research, and technical projects, I have actively contributed as an IEEE Student Member, a STEM Trainer at Khudkila Nepal, and the Campus Director & Advisor for the Hult Prize at NEC.<br>Beyond academics, I thrive in problem-solving, machine learning applications in power systems, and nonprofit leadership. I am particularly interested in power system analysis, fault detection using AI/ML.<br>I believe in lifelong learning and collaboration. Let’s connect and explore opportunities to innovate together!
+I am an aspiring Electrical & Electronics Engineer currently in my final year at Nepal Engineering College, passionate about integrating technology with innovation. With hands-on experience in leadership, research, and technical projects, I have actively contributed as an IEEE Student Member, a STEM Trainer at Khudkila Nepal, and the Campus Director & Advisor for the Hult Prize at NEC.
+<br><br>Beyond academics, I thrive in problem-solving, machine learning applications in power systems, and nonprofit leadership. I am particularly interested in power system analysis, fault detection using AI/ML.<br><br>I believe in lifelong learning and collaboration. Let’s connect and explore opportunities to innovate together!
 
 
 ## 🌐 Socials:

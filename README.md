@@ -82,6 +82,16 @@ I'm an electrical engineer from **Kathmandu, Nepal** working at the intersection
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### ⚡ [Fault & Islanding Analysis · IEEE 1547 Inverter](https://github.com/daari-git/fault-islanding-classifier)
+Ongoing extension of my IET GTD paper to a distribution feeder with DER: a **MATLAB/Simulink** model of an 11 kV, 50 Hz feeder with an **IEEE 1547-2018** PV inverter (3 MW). It simulates LG, LL, LLG, LLL and LLLG faults, **unintentional islanding** tested against the 2 s clearing requirement, and faults inside the island. Next step: an ML classifier that separates faults from islanding events.
+
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![IEEE 1547](https://img.shields.io/badge/IEEE-1547--2018-00629B?style=flat-square) ![Islanding](https://img.shields.io/badge/Islanding%20Detection-2C9BD6?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔌 [IEEE 13-Bus Feeder · PowerFactory](https://github.com/daari-git/IEEE-13-Bus-Feeder-in-DIgSILENT-PowerFactory)
